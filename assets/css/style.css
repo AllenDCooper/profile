@@ -176,7 +176,15 @@ img.headshot {
 }
 
 .intro {
-  margin: 0 auto;
+  margin: 20px auto;
   width: 80%;
-  text-align: center;
+  text-align: justify;
+}
+
+.quote {
+  position: relative;
+  padding-left: 1em;
+  border-left: 0.2em solid;
+  font-weight: 100;
+  font-size: 20px;
 }
