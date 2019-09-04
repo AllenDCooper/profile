@@ -188,3 +188,9 @@ img.headshot {
   font-weight: 100;
   font-size: 20px;
 }
+
+@media only screen and (max-width: 600px) {
+  #logo-container {
+    font-size: 20px;
+  }
+}
